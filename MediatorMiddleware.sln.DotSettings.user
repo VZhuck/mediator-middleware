@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AGuardAgainstNullExtensions_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F38ecee13a94d6931eebbdb2c563d2c5375424fe8f4eae3963ab5cef6526cb_003FGuardAgainstNullExtensions_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AGuardAgainstOutOfRangeExtensions_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F833fed97c32dcc2a12cff14db306fc3d225158ec7cb267e39ebd896c0ba9a54_003FGuardAgainstOutOfRangeExtensions_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ARuntimeHandles_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fd9ecd6e27509950e61c45171eab1fa554a83c24c75271b057a3ca24b7537d_003FRuntimeHandles_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ARuntimeType_002ECoreCLR_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fa5317252dca19ccdd3f16b6e19642dcfdd56fba66c7289ae61042c346ae8c99_003FRuntimeType_002ECoreCLR_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AThrowHelper_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F1b4992783078d7e4b19c3a2451a3156ebb1ea9e5ca26acc3fa3fdbcd71d618_003FThrowHelper_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=467a8510_002D54a2_002D46d1_002Dbe55_002D6207379a8967/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PipelineBehaviors_ExecuteInOrder" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4f0435b1_002D5f24_002D40a4_002Dbb22_002Ddc33f2c5d005/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Publish_FansOutToAllHandlers" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests.Publish_FansOutToAllHandlers&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5168edf4_002D81ad_002D42e9_002D8a5a_002D4b386aac5880/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.UnitTest1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorServiceCollectionExtensionsTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests.Send_GetTodoQuery_ReturnsExpectedResult&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests01.Send_GetTodoQuery_ReturnsExpectedResult&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests01.Send_DispatchesToCorrectHandler&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests01.Send_ThrowsWhenNoHandlerRegistered&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests.Send_ThrowsWhenNoHandlerRegistered&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests.PipelineBehaviors_ExecuteInOrder&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D08F9456-E8FD-477A-B41D-5898980577D4::net10.0::MediatorMiddleware.Tests.MediatorTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

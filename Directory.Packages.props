@@ -1,0 +1,35 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <AspireVersion>9.5.2</AspireVersion>
+    <AspnetVersion>10.0.0</AspnetVersion>
+    <EfcoreVersion>10.0.0</EfcoreVersion>
+    <MicrosoftExtensionsVersion>10.0.0</MicrosoftExtensionsVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- GuardClauses -->
+    <PackageVersion Include="Ardalis.GuardClauses" Version="5.0.0" />
+    <!-- Microsoft -->
+    <PackageVersion Include="JetBrains.Annotations" Version="2025.2.4" />
+    <PackageVersion Include="Microsoft.Build.Tasks.Core" Version="17.14.28" />
+    <PackageVersion Include="Microsoft.Build.Utilities.Core" Version="17.14.28" />
+    <PackageVersion Include="Microsoft.CodeAnalysis.CSharp" Version="5.0.0-2.final" />
+    <!-- Microsoft.Extensions -->
+    <PackageVersion Include="Microsoft.Extensions.Configuration.Json" Version="$(MicrosoftExtensionsVersion)" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="$(MicrosoftExtensionsVersion)" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="$(MicrosoftExtensionsVersion)" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Logging" Version="$(MicrosoftExtensionsVersion)" />
+    <!-- OpenTelemetry -->
+    <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.13.1" />
+    <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.13.1" />
+    <PackageVersion Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.13.0" />
+    <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.13.0" />
+    <PackageVersion Include="OpenTelemetry.Instrumentation.Runtime" Version="1.13.0" />
+    <!-- xUnit -->
+    <PackageVersion Include="coverlet.collector" Version="6.0.4" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageVersion Include="xunit" Version="2.9.3" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.4" />
+  </ItemGroup>
+</Project>
