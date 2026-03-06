@@ -21,11 +21,11 @@
     <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.0" />
     <PackageVersion Include="Microsoft.Extensions.Logging" Version="$(MicrosoftExtensionsVersion)" />
     <!-- OpenTelemetry -->
-    <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.13.1" />
-    <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.13.1" />
-    <PackageVersion Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.13.0" />
-    <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.13.0" />
-    <PackageVersion Include="OpenTelemetry.Instrumentation.Runtime" Version="1.13.0" />
+<!--    <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.13.1" />-->
+<!--    <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.13.1" />-->
+<!--    <PackageVersion Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.13.0" />-->
+<!--    <PackageVersion Include="OpenTelemetry.Instrumentation.Http" Version="1.13.0" />-->
+<!--    <PackageVersion Include="OpenTelemetry.Instrumentation.Runtime" Version="1.13.0" />-->
     <!-- xUnit -->
     <PackageVersion Include="coverlet.collector" Version="6.0.4" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />

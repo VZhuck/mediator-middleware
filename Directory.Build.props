@@ -1,8 +1,32 @@
 <Project>
   <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <!-- NuGet package metadata (shared) -->
+  <PropertyGroup>
+    <Authors>Valentine Zhuck</Authors>
+<!--    <Company>VZ</Company>-->
+    <Description>Lean implementation of mediator middlware pattern for .net applications</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/VZhuck/mediator-middleware</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/VZhuck/mediator-middleware</RepositoryUrl>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+<!--    <GenerateDocumentationFile>true</GenerateDocumentationFile>-->
+    <PackageTags>mediator;request;response;handlers;commands;notifications</PackageTags>
+
+    <CiBuildNumber Condition="'$(CiBuildNumber)' == ''">0</CiBuildNumber>
+    <Version>0.1.$(CiBuildNumber)</Version>
+
+    <!-- Do not generate packages by default (opt-in per project) -->
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 </Project>

@@ -1,9 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
-        <TargetFramework>net10.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <IsPackable>true</IsPackable>
+        <Description>Abstractions and contracts for the MediatorMiddleware library. Contains interfaces for requests, notifications, handlers, and pipeline behaviors.</Description>
     </PropertyGroup>
 
 </Project>
