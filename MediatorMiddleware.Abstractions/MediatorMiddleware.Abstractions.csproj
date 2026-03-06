@@ -4,4 +4,9 @@
         <Description>Abstractions and contracts for the MediatorMiddleware library. Contains interfaces for requests, notifications, handlers, and pipeline behaviors.</Description>
     </PropertyGroup>
 
+    <ItemGroup>
+        <None Include="..\LICENSE" Pack="true" PackagePath="" />
+        <None Include="..\README.md" Pack="true" PackagePath="\" />
+    </ItemGroup>
+
 </Project>
